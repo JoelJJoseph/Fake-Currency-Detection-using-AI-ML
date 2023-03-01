@@ -7,7 +7,7 @@ Machine learning has revolutionized the way we approach problems and has opened 
 It is possible to train models that can precisely predict the veracity of banknotes using machine learning. These algorithms can learn to recognise patterns and features that separate authentic notes from fakes by training them on vast datasets of both real and counterfeit notes. The way we approach challenges has been transformed by machine learning, which has also created new opportunities for resolving challenging problems. The detection of counterfeit notes is one such issue, which has been a persistent difficulty for businesses and financial institutions.
 
 
-# What it does  <img src="https://user-images.githubusercontent.com/72274851/222214323-923a3fe7-56e9-4ba0-abff-162681500702.png" width="60" height="60">  
+# What it does  <img src="(https://user-images.githubusercontent.com/72274851/222216353-58874ba5-d9cc-4298-baab-4255bbdb0193.png" width="60" height="60">  
 
 This project aims to develop a machine learning model to predict the authenticity of banknotes. The model uses features such as variance, skewness, kurtosis, and entropy of wavelet-transformed images of the banknotes. The target value is 0 for real banknotes and 1 for fake banknotes.
 
